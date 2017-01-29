@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HashTagSearch</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hashtag_search">HashTag search</string>
+    <string name="title_search_text">Search for any Hashtag</string>
+    <string name="search_button_text">Search</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="hashtag_short_text">Hashtag is too Short</string>
+    <string name="sync_account_type">hashtagsearch.com</string>
+    <string name="content_authority">com.hashtagsearch.data.TweetProvider</string>
+</resources>
